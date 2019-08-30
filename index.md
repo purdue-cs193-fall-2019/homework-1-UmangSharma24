@@ -4,8 +4,8 @@
 ### What I like about CS193:
 
 <font color="#e04728">
-- The instructors are pretty chill.
-- The quizzes are pretty convenient thanks to the iClickers.
-- The tips the instructors gave us are really helpful.
-- I don't have to write anything in a notebook.
+- The instructors are pretty chill.<br>
+- The quizzes are pretty convenient thanks to the iClickers.<br>
+- The tips the instructors gave us are really helpful.<br>
+- I don't have to write anything in a notebook.<br>
 </font>
